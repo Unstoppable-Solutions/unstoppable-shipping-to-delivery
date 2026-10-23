@@ -3,8 +3,8 @@ Contributors: paramedic192
 Donate link: https://unstoppablesolutions.app/donate
 Tags: shipping to delivery, replace shipping, woocommerce delivery, rename shipping, delivery text
 Requires at least: 5.8
-Tested up to: 7.1
-Stable tag: 1.2.2
+Tested up to: 7.1.3
+Stable tag: 1.2.3
 Requires PHP: 7.4
 WC requires at least: 5.0
 WC tested up to: 10.4
@@ -85,6 +85,9 @@ This free version only replaces with "Delivery". For custom text options (Pickup
 
 == Changelog ==
 
+= 1.2.3 =
+* Tested and confirmed compatible with WordPress 7.1.3
+
 = 1.2.2 =
 * Tested with WordPress 7.0
 
@@ -122,6 +125,9 @@ This free version only replaces with "Delivery". For custom text options (Pickup
 * Initial release
 
 == Upgrade Notice ==
+
+= 1.2.3 =
+Confirmed compatible with WordPress 7.1.3.
 
 = 1.2.2 =
 Tested with WordPress 7.0.
