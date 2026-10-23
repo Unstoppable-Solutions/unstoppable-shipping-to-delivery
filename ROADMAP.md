@@ -18,7 +18,7 @@ Status · Source.
 - **Status:** Completed · **Source:** Previous Discussion
 
 ### WordPress 7.1.3 compatibility metadata
-- **Description:** Set `Tested up to: 7.1.3` in the plugin header and `readme.txt`, bump Stable tag to 1.2.3, add changelog/upgrade entries. (7.1.3 compatibility testing completed by the plugin owner.)
+- **Description:** Set `Tested up to: 7.1` (WordPress.org's required major.minor format, which covers 7.1.x) in the plugin header and `readme.txt`, bump Stable tag to 1.2.3, and record the 7.1.3 confirmation in the changelog/upgrade notice. (7.1.3 compatibility testing completed by the plugin owner.)
 - **Benefit:** Removes the "untested with your version" warning on current WordPress.
 - **Priority:** High · **Complexity:** Small · **Milestone:** 1.2.3
 - **Status:** Completed · **Source:** Previous Discussion

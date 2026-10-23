@@ -3,7 +3,7 @@ Contributors: paramedic192
 Donate link: https://unstoppablesolutions.app/donate
 Tags: shipping to delivery, replace shipping, woocommerce delivery, rename shipping, delivery text
 Requires at least: 5.8
-Tested up to: 7.1.3
+Tested up to: 7.1
 Stable tag: 1.2.3
 Requires PHP: 7.4
 WC requires at least: 5.0
